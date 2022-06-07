@@ -1,3 +1,9 @@
+/**
+Auteur : Sergio Da Costa
+Date : 03.06.2022
+Description: Travail Pratique Individuel (TPI)
+ Page: Fichier de chargement des vues
+**/
 require('./bootstrap');
 
 import { createApp, h } from 'vue';

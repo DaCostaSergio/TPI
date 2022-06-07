@@ -1,3 +1,9 @@
+<!--
+Auteur : Sergio Da Costa
+    Date : 03.06.2022
+    Description: Travail Pratique Individuel (TPI)
+    Page: Welcome vue
+--->
 <script setup>
 import { Head, Link } from '@inertiajs/inertia-vue3';
 
